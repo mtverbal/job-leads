@@ -1,1 +1,65 @@
-{"updated": "2026-10-06T22:09:07Z", "jobs": []}
+{
+ "updated": "2026-10-06T23:00:00Z",
+ "jobs": [
+  {
+   "id": "autodesk.wd1.myworkdayjobs.com-en-US-Ext-job-Keynote-Content-Producer--Events---",
+   "company": "Autodesk",
+   "title": "Keynote Content Producer, Events & Experiences",
+   "type": "Full-time",
+   "location": "Denver / remote",
+   "pay": "",
+   "posted": "2026-09-15",
+   "closes": "",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Keynote-Content-Producer--Events---Experiences_26WD100713-2",
+   "lane": "Keynote content",
+   "for": "fish",
+   "note": "Unverified: couldn't open the posting, posted date approximate. Shapes keynote content for flagship live events; little PR background implied, mostly producing and content.",
+   "added": "2026-10-06"
+  },
+  {
+   "id": "remotive.com-remote-jobs-writing-senior-narrative-writer-5751810",
+   "company": "Nth Degree",
+   "title": "Senior Narrative Writer",
+   "type": "Full-time",
+   "location": "Remote",
+   "pay": "",
+   "posted": "2026-10-06",
+   "closes": "",
+   "url": "https://remotive.com/remote/jobs/writing/senior-narrative-writer-5751810",
+   "lane": "Live event writing",
+   "for": "fish",
+   "note": "Unverified: posting date not shown (date is when found). Writes narrative arcs, scripts and speaker development for marquee live events; no PR background asked.",
+   "added": "2026-10-06"
+  },
+  {
+   "id": "www.theladders.com-job-associate-producer-keynote-apple-san-francisco-ca_8608529",
+   "company": "Apple",
+   "title": "Associate Producer, Keynote",
+   "type": "Full-time",
+   "location": "Cupertino, CA",
+   "pay": "",
+   "posted": "2026-05-15",
+   "closes": "",
+   "url": "https://www.theladders.com/job/associate-producer-keynote-apple-san-francisco-ca_86085297",
+   "lane": "Keynote production",
+   "for": "fish",
+   "note": "Unverified: posted ~May 2026, may be closed. Stretch: leans production logistics over writing, but it's Apple keynote filming and stage shows.",
+   "added": "2026-10-06"
+  },
+  {
+   "id": "www.builtinla.com-job-senior-copywriter-11147454",
+   "company": "Movers+Shakers",
+   "title": "Senior Copywriter",
+   "type": "Full-time",
+   "location": "Los Angeles, CA",
+   "pay": "$95K-$105K",
+   "posted": "2026-09-12",
+   "closes": "",
+   "url": "https://www.builtinla.com/job/senior-copywriter/11147454",
+   "lane": "Agency copy",
+   "for": "all",
+   "note": "Entertainment-focused agency, social-first brand campaign copy; 5-8 yrs agency experience.",
+   "added": "2026-10-06"
+  }
+ ]
+}
