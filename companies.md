@@ -19,3 +19,16 @@ Breville, Traeger, Sonos, Peloton, Lululemon, Patagonia, YETI, GoPro, Liquid Dea
 ## Boards found (Company | ats | slug | last checked)
 Jack Morton | greenhouse | jackmortonworldwide | 2026-10-08
 Autodesk | workday | autodesk.wd1.myworkdayjobs.com/en-US/Ext | 2026-10-08
+Riot Games | greenhouse | riotgames | 2026-10-08
+Roblox | greenhouse | roblox | 2026-10-08
+Duolingo | greenhouse | duolingo | 2026-10-08
+Stripe | greenhouse | stripe | 2026-10-08 (runs Stripe Sessions keynote; watch for event/keynote producer roles)
+Figma | greenhouse | figma | 2026-10-08
+Anthropic | greenhouse | anthropic | 2026-10-08
+Epic Games | greenhouse | epicgames | 2026-10-08
+Databricks | greenhouse | databricks | 2026-10-08 (Data + AI Summit keynote)
+Peloton | greenhouse | peloton | 2026-10-08
+Squarespace | greenhouse | squarespace | 2026-10-08
+Reddit | greenhouse | reddit | 2026-10-08
+Spotify | lever | spotify | 2026-10-08
+Apple (contract roles) | magnit | directsource.magnitglobal.com/us/applecontingentworkforce | 2026-10-08 (Apple's contractor board; keynote producer roles appear here)
