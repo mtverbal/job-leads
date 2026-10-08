@@ -32,3 +32,15 @@ Squarespace | greenhouse | squarespace | 2026-10-08
 Reddit | greenhouse | reddit | 2026-10-08
 Spotify | lever | spotify | 2026-10-08
 Apple (contract roles) | magnit | directsource.magnitglobal.com/us/applecontingentworkforce | 2026-10-08 (Apple's contractor board; keynote producer roles appear here)
+NVE Experience Agency | greenhouse | nve | 2026-10-08
+On Board Experiential | greenhouse | obexp | 2026-10-08
+Something Special Studios | greenhouse | somethingspecialstudios | 2026-10-08
+Article Group | greenhouse | articlegroup | 2026-10-08 (keynote agency for Google/AWS/Salesforce; only design roles open now)
+Twilio | greenhouse | twilio | 2026-10-08 (SIGNAL conference)
+Datadog | greenhouse | datadog | 2026-10-08 (DASH conference)
+Okta | greenhouse | okta | 2026-10-08 (Oktane conference)
+Discord | greenhouse | discord | 2026-10-08
+Pinterest | greenhouse | pinterest | 2026-10-08
+Airbnb | greenhouse | airbnb | 2026-10-08
+Cloudflare | greenhouse | cloudflare | 2026-10-08
+OpenAI | ashby | openai | 2026-10-08
