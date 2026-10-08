@@ -15,3 +15,7 @@ Sony PlayStation, Nintendo, Riot, Epic, EA, Activision Blizzard, Mattel, Hasbro
 
 ## Consumer brands with in-house content studios
 Breville, Traeger, Sonos, Peloton, Lululemon, Patagonia, YETI, GoPro, Liquid Death, Duolingo, Taco Bell, Red Bull Media House
+
+## Boards found (Company | ats | slug | last checked)
+Jack Morton | greenhouse | jackmortonworldwide | 2026-10-08
+Autodesk | workday | autodesk.wd1.myworkdayjobs.com/en-US/Ext | 2026-10-08
