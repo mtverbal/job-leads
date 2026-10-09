@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:30:00Z",
+  "updated": "2026-10-09T12:00:00Z",
   "jobs": [
     {
       "id": "autodesk-keynote-content-producer-26WD100713",
@@ -17,7 +17,8 @@
       "note": "Applied Oct 2026. Shapes keynote content for flagship live events; production and content more than PR.",
       "found": "2026-10-06",
       "added": "2026-10-06",
-      "verified": "2026-10-08"
+      "verified": "2026-10-08",
+      "check_failures": 1
     },
     {
       "id": "roblox-8167425",
@@ -35,7 +36,7 @@
       "note": "Applied Oct 8, 2026. Runs Roblox's in-house marketing studio (copy, design, video), managing copywriters and art directors; wants 12+ yrs creative with 3-5 leading teams. Stretch: Bay Area office, and it's design-and-copy leadership more than show writing.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "duolingo-8442932002",
@@ -53,7 +54,7 @@
       "note": "Sets creative vision for the most comedy-driven brand in tech (campaigns, video, experiential, partnerships), leading in-house creatives and agencies. Stretch: NYC, and it's been open since February.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "riotgames-8187620",
@@ -71,7 +72,7 @@
       "note": "Applied Oct 8, 2026. Leads League's writers on in-game voice-over and character writing. Stretch: asks for 4+ years of game writing specifically, plus one other medium (comics count).",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "stripe-7991528",
@@ -89,7 +90,7 @@
       "note": "Runs creative production for a Stripe brand team across web, social, motion and campaigns; 6+ yrs.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "obexp-8694084002",
@@ -107,7 +108,7 @@
       "note": "LA-based agency CD: leads pitches and integrated experiential and virtual campaigns, manages creatives. Wants 8+ yrs experiential marketing, 3 at an agency; your MTV Beach House and GTC work is the case to make.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "nve-8093112",
@@ -125,7 +126,7 @@
       "note": "Concept-led CD for fan experiences and themed entertainment: big ideas, storytelling, world-building rather than design craft. Remote considered. Wants 10+ yrs and team management.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "twilio-8208337",
@@ -143,7 +144,7 @@
       "note": "Holds the pen for the CPTO: keynotes, presentations, blogs, all-hands content. Stretch: asks for 10+ yrs in communications with 3+ in exec comms and 5+ in tech; your press releases and GTC work are the argument.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "somethingspecialstudios-4071712009",
@@ -161,7 +162,7 @@
       "note": "Leads integrated creative across experiential, content and campaigns; LA option is freelance. 10+ yrs leading agency or studio creative. Open since December, so they may be picky or slow.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "somethingspecialstudios-4060518009",
@@ -179,7 +180,7 @@
       "note": "Creative lead on activations, pop-ups and installations from concept to on-site build; LA option is freelance. Wants 8-10+ yrs agency creative leadership. Open since November.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "somethingspecialstudios-4195233009",
@@ -197,7 +198,7 @@
       "note": "Freelance gig leading copy across print, digital, social and content. Pitched at 5+ yrs, so it's a way in the door rather than a senior title.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "datadog-8144783",
@@ -215,7 +216,7 @@
       "note": "Ghostwrites speeches, bylines and exec messaging and helps shape event strategy. Stretch: NYC, and it leans PR (earned media, speaking placements) more than show writing.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "nve-8140345",
@@ -233,7 +234,7 @@
       "note": "Stretch: runs premieres, screenings and fan activations for studios and streamers, but it's budgets and load-ins, not writing. 10+ yrs event production.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "nve-8175036",
@@ -251,7 +252,7 @@
       "note": "Runs B2B conferences, trade shows and exec summits end to end; 7-10 yrs event production.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "obexp-8723935002",
@@ -269,7 +270,7 @@
       "note": "Research-driven strategy plus pitch decks, concept storylines and copy; 3-5 yrs agency experience.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
     },
     {
       "id": "somethingspecialstudios-4195231009",
@@ -287,7 +288,79 @@
       "note": "Oversees production across experiential, campaign and content projects; 8-10+ yrs agency or brand producing.",
       "found": "2026-10-08",
       "added": "2026-10-08",
-      "verified": "2026-10-08"
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "figma-6150074004",
+      "company": "Figma",
+      "title": "Executive Communications Manager",
+      "type": "Full-time",
+      "location": "San Francisco, CA or New York, NY",
+      "pay": "$153,000-$269,000",
+      "posted": "2026-08-23",
+      "closes": "",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6150074004",
+      "lane": "Exec comms / keynote writing",
+      "for": "fish",
+      "status": "open",
+      "note": "Writes essays, keynotes and op-eds for Figma's executives; wants extensive C-suite narrative writing and media-relations judgment (some PR/comms background expected, years not stated). Not LA, but SF/NY.",
+      "found": "2026-10-09",
+      "added": "2026-10-09",
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "anthropic-5423931008",
+      "company": "Anthropic",
+      "title": "Copywriter, Developer",
+      "type": "Full-time",
+      "location": "San Francisco, CA or New York, NY (on-site)",
+      "pay": "$200,000-$255,000",
+      "posted": "2026-09-16",
+      "closes": "",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
+      "lane": "Senior copywriter",
+      "for": "fish",
+      "status": "open",
+      "note": "Launch narratives, campaigns and event materials for developers; asks 8+ years writing for technical audiences. Stretch: technical audience, on-site outside LA.",
+      "found": "2026-10-09",
+      "added": "2026-10-09",
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "jackmortonworldwide-4383916009",
+      "company": "Jack Morton",
+      "title": "Executive Producer",
+      "type": "Full-time",
+      "location": "New York, NY (hybrid, NYC or Boston)",
+      "pay": "",
+      "posted": "2026-09-18",
+      "closes": "",
+      "url": "https://job-boards.greenhouse.io/jackmortonworldwide/jobs/4383916009",
+      "lane": "Live events / general sessions",
+      "for": "fish",
+      "status": "open",
+      "note": "Leads general sessions and live shows for B2B clients; asks 10-15+ years in event production. Stretch: more production management and budget ($5M+) than writing.",
+      "found": "2026-10-09",
+      "added": "2026-10-09",
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "jackmortonworldwide-4295001009",
+      "company": "Jack Morton",
+      "title": "Executive Creative Director (Experiential, B2B)",
+      "type": "Full-time",
+      "location": "Chicago, IL (hybrid)",
+      "pay": "",
+      "posted": "2026-09-04",
+      "closes": "",
+      "url": "https://job-boards.greenhouse.io/jackmortonworldwide/jobs/4295001009",
+      "lane": "Experiential creative leadership",
+      "for": "fish",
+      "status": "open",
+      "note": "Creative vision across medical-congress experiences; asks 10-15+ years of creative leadership. Stretch: healthcare/scientific subject matter, Chicago.",
+      "found": "2026-10-09",
+      "added": "2026-10-09",
+      "verified": "2026-10-09"
     }
   ]
 }
