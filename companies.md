@@ -46,10 +46,10 @@ Cloudflare | greenhouse | cloudflare | 2026-10-11
 OpenAI | ashby | openai | 2026-10-11
 
 ## Southern California aerospace and defense (added 2026-10-11)
-Northrop Grumman | own site | northropgrumman.com/jobs (Communications job family; Redondo Beach, Palmdale, El Segundo) | not yet checked
+Northrop Grumman | own site | northropgrumman.com/jobs (Communications job family; Redondo Beach, Palmdale, El Segundo) | 2026-10-11 (pages load without an apply button; confirm via ClearanceJobs/employer apply flow)
 Boeing | own site | jobs.boeing.com (El Segundo, Long Beach) | not yet checked
 RTX / Raytheon | own site | careers.rtx.com (El Segundo) | not yet checked
-Lockheed Martin | own site | lockheedmartinjobs.com (Palmdale Skunk Works) | not yet checked
+Lockheed Martin | own site | lockheedmartinjobs.com (Palmdale Skunk Works) | 2026-10-11 (comms roles mostly Fort Worth/Bethesda; closed jobs redirect to a 404 page)
 General Atomics | own site | ga-careers (San Diego) | not yet checked
 The Aerospace Corporation | own site | aerospace.org/careers (El Segundo) | not yet checked
 Anduril | greenhouse | andurilindustries | 2026-10-11 (board too big for one read; individual job links redirect to anduril.com/open-roles, which needs JavaScript. Use site: searches; only add jobs whose own page loads)
@@ -69,7 +69,7 @@ Western Digital | smartrecruiters (API blocked) / careers site | | 2026-10-11 (I
 TCL North America (TTE Technology) | isolvedhire | ttetechnology.isolvedhire.com | 2026-10-11 (Irvine; Head of Content & Creative posting seen, ~11 months old, unconfirmed)
 Fender | unknown | | not yet checked (LA; runs its own content studio)
 Therabody | unknown | | not yet checked (LA)
-Rivian | own site | | not yet checked (Irvine)
+Rivian | own API | careers.rivian.com/api/jobs?keywords=<term> | 2026-10-11 (Irvine Creative Studio)
 Hyundai Motor America | own site | | not yet checked (Fountain Valley)
 Kia America | own site | | not yet checked (Irvine)
 Mazda North America | own site | | not yet checked (Irvine)
@@ -83,9 +83,9 @@ SharkNinja | careers.sharkninja.com | | 2026-10-11 (hires senior copywriters, mo
 Edwards Lifesciences | own site | | not yet checked (Irvine)
 
 ## Chipmakers and hardware tech with big keynotes (added 2026-10-11)
-Qualcomm | own site | | not yet checked (San Diego; Snapdragon Summit)
-AMD | own site | | not yet checked (has had exec comms / keynote roles)
+Qualcomm | qualcomm.dejobs.org + careers.qualcomm.com | | 2026-10-11 (San Diego; exec comms presentations/video role found)
+AMD | own site | careers.amd.com | 2026-10-11 (Sr. Manager, Executive Communications - AI Solutions, San Jose, job 57150: page loads, status unconfirmed)
 Intel | own site | | not yet checked
-Cisco | own site | | not yet checked (Cisco Live)
+Cisco | own site | jobs.cisco.com | 2026-10-11 (closed jobs redirect to careers home)
 Dell | own site | | not yet checked (Dell Technologies World)
 HP | own site | | not yet checked
