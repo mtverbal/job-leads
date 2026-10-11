@@ -44,3 +44,48 @@ Pinterest | greenhouse | pinterest | 2026-10-11
 Airbnb | greenhouse | airbnb | 2026-10-11
 Cloudflare | greenhouse | cloudflare | 2026-10-11
 OpenAI | ashby | openai | 2026-10-11
+
+## Southern California aerospace and defense (added 2026-10-11)
+Northrop Grumman | own site | northropgrumman.com/jobs (Communications job family; Redondo Beach, Palmdale, El Segundo) | not yet checked
+Boeing | own site | jobs.boeing.com (El Segundo, Long Beach) | not yet checked
+RTX / Raytheon | own site | careers.rtx.com (El Segundo) | not yet checked
+Lockheed Martin | own site | lockheedmartinjobs.com (Palmdale Skunk Works) | not yet checked
+General Atomics | own site | ga-careers (San Diego) | not yet checked
+The Aerospace Corporation | own site | aerospace.org/careers (El Segundo) | not yet checked
+Anduril | greenhouse | andurilindustries | 2026-10-11 (board too big for one read; individual job links redirect to anduril.com/open-roles, which needs JavaScript. Use site: searches; only add jobs whose own page loads)
+SpaceX | greenhouse | spacex | 2026-10-11 (Hawthorne; webcast/broadcast and brand roles appear here)
+Castelion | careers-page.com | castelion-corporation | 2026-10-11 (Torrance; has a Brand Studio hiring videographers/editors)
+Hadrian | unknown | | not yet checked (Torrance; has brand roles)
+Shield AI | lever | shieldai | 2026-10-11 (San Diego)
+Relativity Space | greenhouse | relativity | 2026-10-11 (Long Beach)
+Rocket Lab | unknown | | not yet checked (Long Beach)
+Varda Space | unknown | | not yet checked (El Segundo)
+Epirus | unknown | | not yet checked (Torrance)
+AeroVironment | own site | | not yet checked (Simi Valley)
+Teledyne | own site | | not yet checked (Thousand Oaks)
+
+## Consumer hardware and manufacturing with content teams (added 2026-10-11)
+Western Digital | smartrecruiters (API blocked) / careers site | | 2026-10-11 (Irvine; had a Head of Content role: scripted YouTube series, exec content)
+TCL North America (TTE Technology) | isolvedhire | ttetechnology.isolvedhire.com | 2026-10-11 (Irvine; Head of Content & Creative posting seen, ~11 months old, unconfirmed)
+Fender | unknown | | not yet checked (LA; runs its own content studio)
+Therabody | unknown | | not yet checked (LA)
+Rivian | own site | | not yet checked (Irvine)
+Hyundai Motor America | own site | | not yet checked (Fountain Valley)
+Kia America | own site | | not yet checked (Irvine)
+Mazda North America | own site | | not yet checked (Irvine)
+Skechers | own site | | not yet checked (Manhattan Beach)
+Oakley | own site | | not yet checked (Foothill Ranch)
+TaylorMade | own site | | not yet checked (Carlsbad)
+Callaway / Topgolf | own site | | not yet checked (Carlsbad)
+Ring | amazon.jobs | | not yet checked (Santa Monica)
+Snap | own site | | not yet checked (Santa Monica; Spectacles hardware)
+SharkNinja | careers.sharkninja.com | | 2026-10-11 (hires senior copywriters, mostly Boston/NYC)
+Edwards Lifesciences | own site | | not yet checked (Irvine)
+
+## Chipmakers and hardware tech with big keynotes (added 2026-10-11)
+Qualcomm | own site | | not yet checked (San Diego; Snapdragon Summit)
+AMD | own site | | not yet checked (has had exec comms / keynote roles)
+Intel | own site | | not yet checked
+Cisco | own site | | not yet checked (Cisco Live)
+Dell | own site | | not yet checked (Dell Technologies World)
+HP | own site | | not yet checked
