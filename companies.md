@@ -17,33 +17,33 @@ Sony PlayStation, Nintendo, Riot, Epic, EA, Activision Blizzard, Mattel, Hasbro
 Breville, Traeger, Sonos, Peloton, Lululemon, Patagonia, YETI, GoPro, Liquid Death, Duolingo, Taco Bell, Red Bull Media House
 
 ## Boards found (Company | ats | slug | last checked)
-Jack Morton | greenhouse | jackmortonworldwide | 2026-10-11
+Jack Morton | greenhouse | jackmortonworldwide | 2026-10-12
 Autodesk | workday | autodesk.wd1.myworkdayjobs.com/en-US/Ext | 2026-10-10
-Riot Games | greenhouse | riotgames | 2026-10-11
-Roblox | greenhouse | roblox | 2026-10-11
-Duolingo | greenhouse | duolingo | 2026-10-11
-Stripe | greenhouse | stripe | 2026-10-11 (runs Stripe Sessions keynote; watch for event/keynote producer roles)
-Figma | greenhouse | figma | 2026-10-11
-Anthropic | greenhouse | anthropic | 2026-10-11
-Epic Games | greenhouse | epicgames | 2026-10-11
-Databricks | greenhouse | databricks | 2026-10-11 (Data + AI Summit keynote)
-Peloton | greenhouse | peloton | 2026-10-11
-Squarespace | greenhouse | squarespace | 2026-10-11
-Reddit | greenhouse | reddit | 2026-10-11
-Spotify | lever | spotify | 2026-10-11
+Riot Games | greenhouse | riotgames | 2026-10-12
+Roblox | greenhouse | roblox | 2026-10-12
+Duolingo | greenhouse | duolingo | 2026-10-12
+Stripe | greenhouse | stripe | 2026-10-12 (runs Stripe Sessions keynote; watch for event/keynote producer roles)
+Figma | greenhouse | figma | 2026-10-12
+Anthropic | greenhouse | anthropic | 2026-10-12
+Epic Games | greenhouse | epicgames | 2026-10-12
+Databricks | greenhouse | databricks | 2026-10-12 (Data + AI Summit keynote)
+Peloton | greenhouse | peloton | 2026-10-12
+Squarespace | greenhouse | squarespace | 2026-10-12
+Reddit | greenhouse | reddit | 2026-10-12
+Spotify | lever | spotify | 2026-10-12
 Apple (contract roles) | magnit | directsource.magnitglobal.com/us/applecontingentworkforce | 2026-10-10 (Apple's contractor board; keynote producer roles appear here)
-NVE Experience Agency | greenhouse | nve | 2026-10-11
-On Board Experiential | greenhouse | obexp | 2026-10-11
-Something Special Studios | greenhouse | somethingspecialstudios | 2026-10-11
-Article Group | greenhouse | articlegroup | 2026-10-11 (keynote agency for Google/AWS/Salesforce; only design roles open now)
-Twilio | greenhouse | twilio | 2026-10-11 (SIGNAL conference)
-Datadog | greenhouse | datadog | 2026-10-11 (DASH conference)
-Okta | greenhouse | okta | 2026-10-11 (Oktane conference)
-Discord | greenhouse | discord | 2026-10-11
-Pinterest | greenhouse | pinterest | 2026-10-11
-Airbnb | greenhouse | airbnb | 2026-10-11
-Cloudflare | greenhouse | cloudflare | 2026-10-11
-OpenAI | ashby | openai | 2026-10-11
+NVE Experience Agency | greenhouse | nve | 2026-10-12
+On Board Experiential | greenhouse | obexp | 2026-10-12
+Something Special Studios | greenhouse | somethingspecialstudios | 2026-10-12
+Article Group | greenhouse | articlegroup | 2026-10-12 (keynote agency for Google/AWS/Salesforce; only design roles open now)
+Twilio | greenhouse | twilio | 2026-10-12 (SIGNAL conference)
+Datadog | greenhouse | datadog | 2026-10-12 (DASH conference)
+Okta | greenhouse | okta | 2026-10-12 (Oktane conference)
+Discord | greenhouse | discord | 2026-10-12
+Pinterest | greenhouse | pinterest | 2026-10-12
+Airbnb | greenhouse | airbnb | 2026-10-12
+Cloudflare | greenhouse | cloudflare | 2026-10-12
+OpenAI | ashby | openai | 2026-10-12
 
 ## Southern California aerospace and defense (added 2026-10-11)
 Northrop Grumman | own site | northropgrumman.com/jobs (Communications job family; Redondo Beach, Palmdale, El Segundo) | 2026-10-11 (pages load without an apply button; confirm via ClearanceJobs/employer apply flow)
@@ -52,15 +52,15 @@ RTX / Raytheon | own site | careers.rtx.com (El Segundo) | not yet checked
 Lockheed Martin | own site | lockheedmartinjobs.com (Palmdale Skunk Works) | 2026-10-11 (comms roles mostly Fort Worth/Bethesda; closed jobs redirect to a 404 page)
 General Atomics | own site | ga-careers (San Diego) | not yet checked
 The Aerospace Corporation | own site | aerospace.org/careers (El Segundo) | not yet checked
-Anduril | greenhouse | andurilindustries | 2026-10-11 (board too big for one read; individual job links redirect to anduril.com/open-roles, which needs JavaScript. Use site: searches; only add jobs whose own page loads)
-SpaceX | greenhouse | spacex | 2026-10-11 (Hawthorne; webcast/broadcast and brand roles appear here)
+Anduril | greenhouse | andurilindustries | 2026-10-12 (board too big for one read; individual job links redirect to anduril.com/open-roles, which needs JavaScript. Use site: searches; only add jobs whose own page loads)
+SpaceX | greenhouse | spacex | 2026-10-12 (Hawthorne; webcast/broadcast and brand roles appear here)
 Castelion | careers-page.com | castelion-corporation | 2026-10-11 (Torrance; has a Brand Studio hiring videographers/editors)
-Hadrian | unknown | | not yet checked (Torrance; has brand roles)
-Shield AI | lever | shieldai | 2026-10-11 (San Diego)
-Relativity Space | greenhouse | relativity | 2026-10-11 (Long Beach)
-Rocket Lab | unknown | | not yet checked (Long Beach)
+Hadrian | board not found on Greenhouse/Lever/Ashby | | 2026-10-12 (Torrance; has brand roles)
+Shield AI | lever | shieldai | 2026-10-12 (San Diego)
+Relativity Space | greenhouse | relativity | 2026-10-12 (Long Beach)
+Rocket Lab | greenhouse | rocketlab | 2026-10-12 (only a Brand Designer open) (Long Beach)
 Varda Space | unknown | | not yet checked (El Segundo)
-Epirus | unknown | | not yet checked (Torrance)
+Epirus | greenhouse | epirus | 2026-10-12 (VP Marketing & Comms posted, heavy media relations; skipped) (Torrance)
 AeroVironment | own site | | not yet checked (Simi Valley)
 Teledyne | own site | | not yet checked (Thousand Oaks)
 
