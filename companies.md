@@ -95,3 +95,8 @@ HubSpot, Zoom, Sonos, GoPro, Mattel | board not found on Greenhouse | | 2026-10-
 Asana | greenhouse | asana | 2026-10-15
 MongoDB | greenhouse | mongodb | 2026-10-15
 Vercel | greenhouse | vercel | 2026-10-15
+Roku | greenhouse | roku | 2026-10-16 (Santa Monica; brand studio)
+AppLovin | greenhouse | applovin | 2026-10-16 (Santa Monica video producers)
+Epic Games | greenhouse | epicgames | 2026-10-16
+MongoDB, Vercel, Asana, Riot Games | greenhouse | rechecked | 2026-10-16
+Shopify, Canva, Adobe, Salesforce, YETI, Lululemon, Patagonia, Mattel, GoPro, Sonos, Zoom, HubSpot | board not found on Greenhouse | | 2026-10-16
