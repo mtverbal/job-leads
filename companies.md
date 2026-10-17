@@ -100,3 +100,5 @@ AppLovin | greenhouse | applovin | 2026-10-16 (Santa Monica video producers)
 Epic Games | greenhouse | epicgames | 2026-10-16
 MongoDB, Vercel, Asana, Riot Games | greenhouse | rechecked | 2026-10-16
 Shopify, Canva, Adobe, Salesforce, YETI, Lululemon, Patagonia, Mattel, GoPro, Sonos, Zoom, HubSpot | board not found on Greenhouse | | 2026-10-16
+
+Scan 2026-10-17: rechecked all Greenhouse boards above (no new Fish-level matches; Anduril, SpaceX, Relativity, Figma, Anthropic reviewed).
