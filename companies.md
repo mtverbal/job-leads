@@ -102,3 +102,5 @@ MongoDB, Vercel, Asana, Riot Games | greenhouse | rechecked | 2026-10-16
 Shopify, Canva, Adobe, Salesforce, YETI, Lululemon, Patagonia, Mattel, GoPro, Sonos, Zoom, HubSpot | board not found on Greenhouse | | 2026-10-16
 
 Scan 2026-10-17: rechecked all Greenhouse boards above (no new Fish-level matches; Anduril, SpaceX, Relativity, Figma, Anthropic reviewed).
+
+Scan 2026-10-18: rechecked all Greenhouse boards above plus Autodesk (Workday API, still open). Reviewed Figma, Databricks, SpaceX, Anthropic, Anduril, Epic, Stripe, Jack Morton, Riot, AppLovin, Roku: no new Fish-level matches (Figma Director Product Communications is SF and earned-media heavy; skipped).
