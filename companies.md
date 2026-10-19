@@ -104,3 +104,5 @@ Shopify, Canva, Adobe, Salesforce, YETI, Lululemon, Patagonia, Mattel, GoPro, So
 Scan 2026-10-17: rechecked all Greenhouse boards above (no new Fish-level matches; Anduril, SpaceX, Relativity, Figma, Anthropic reviewed).
 
 Scan 2026-10-18: rechecked all Greenhouse boards above plus Autodesk (Workday API, still open). Reviewed Figma, Databricks, SpaceX, Anthropic, Anduril, Epic, Stripe, Jack Morton, Riot, AppLovin, Roku: no new Fish-level matches (Figma Director Product Communications is SF and earned-media heavy; skipped).
+
+Scan 2026-10-19: rechecked all 34 Greenhouse boards above plus Autodesk (Workday record still loads). No new Fish-level matches (Squarespace Director Corp Comms and MongoDB VP Comms are media-relations heavy; Anduril Lead Environmental Design Producer is design-team, not writing; skipped).
