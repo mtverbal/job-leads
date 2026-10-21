@@ -108,3 +108,5 @@ Scan 2026-10-18: rechecked all Greenhouse boards above plus Autodesk (Workday AP
 Scan 2026-10-19: rechecked all 34 Greenhouse boards above plus Autodesk (Workday record still loads). No new Fish-level matches (Squarespace Director Corp Comms and MongoDB VP Comms are media-relations heavy; Anduril Lead Environmental Design Producer is design-team, not writing; skipped).
 
 Scan 2026-10-20: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). No new Fish-level matches (Stripe Head of Events, Works in Progress is commercial events for a magazine; Figma Director Product Communications and Squarespace/MongoDB comms roles are media-relations heavy; skipped).
+
+Scan 2026-10-21: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). No new Fish-level matches (Figma/Squarespace/MongoDB/Okta comms roles are media-relations heavy; Databricks Principal Brand Content is SF/search-visibility focused; skipped). Removed 6 closed (404 records).
