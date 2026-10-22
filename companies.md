@@ -110,3 +110,5 @@ Scan 2026-10-19: rechecked all 34 Greenhouse boards above plus Autodesk (Workday
 Scan 2026-10-20: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). No new Fish-level matches (Stripe Head of Events, Works in Progress is commercial events for a magazine; Figma Director Product Communications and Squarespace/MongoDB comms roles are media-relations heavy; skipped).
 
 Scan 2026-10-21: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). No new Fish-level matches (Figma/Squarespace/MongoDB/Okta comms roles are media-relations heavy; Databricks Principal Brand Content is SF/search-visibility focused; skipped). Removed 6 closed (404 records).
+
+Scan 2026-10-22: rechecked all 34 Greenhouse boards plus Autodesk. No new Fish-level matches (Pinterest Lead Copywriter is London; Anthropic Copywriter, Developer is SF/NYC and non-senior; SpaceX/Roblox/Databricks event and ops roles not writing; skipped). All 44 existing jobs confirmed open.
