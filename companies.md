@@ -112,3 +112,5 @@ Scan 2026-10-20: rechecked all 34 Greenhouse boards plus Autodesk (Workday recor
 Scan 2026-10-21: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). No new Fish-level matches (Figma/Squarespace/MongoDB/Okta comms roles are media-relations heavy; Databricks Principal Brand Content is SF/search-visibility focused; skipped). Removed 6 closed (404 records).
 
 Scan 2026-10-22: rechecked all 34 Greenhouse boards plus Autodesk. No new Fish-level matches (Pinterest Lead Copywriter is London; Anthropic Copywriter, Developer is SF/NYC and non-senior; SpaceX/Roblox/Databricks event and ops roles not writing; skipped). All 44 existing jobs confirmed open.
+
+Scan 2026-10-23: rechecked all 34 Greenhouse boards plus Autodesk. No new Fish-level matches (Okta Technical Content Lead is tech writing; Pinterest/Figma/Squarespace/MongoDB comms roles are media-relations heavy or non-LA; skipped). All 44 existing jobs confirmed open. Added 1 'all' (AppLovin Content Marketing Manager).
