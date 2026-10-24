@@ -114,3 +114,5 @@ Scan 2026-10-21: rechecked all 34 Greenhouse boards plus Autodesk (Workday recor
 Scan 2026-10-22: rechecked all 34 Greenhouse boards plus Autodesk. No new Fish-level matches (Pinterest Lead Copywriter is London; Anthropic Copywriter, Developer is SF/NYC and non-senior; SpaceX/Roblox/Databricks event and ops roles not writing; skipped). All 44 existing jobs confirmed open.
 
 Scan 2026-10-23: rechecked all 34 Greenhouse boards plus Autodesk. No new Fish-level matches (Okta Technical Content Lead is tech writing; Pinterest/Figma/Squarespace/MongoDB comms roles are media-relations heavy or non-LA; skipped). All 44 existing jobs confirmed open. Added 1 'all' (AppLovin Content Marketing Manager).
+
+Scan 2026-10-24: rechecked all 34 Greenhouse boards plus Autodesk (Workday record still loads). New: NVE Creative Director (LA/NY). MongoDB Director Brand & Creative is visual-design leadership; Anduril Lead Experiential Design Producer is design-team; skipped. All 45 existing jobs confirmed open. Added 1 'all' (Riot Brand Manager).
