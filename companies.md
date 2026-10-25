@@ -16,6 +16,15 @@ Sony PlayStation, Nintendo, Riot, Epic, EA, Activision Blizzard, Mattel, Hasbro
 ## Consumer brands with in-house content studios
 Breville, Traeger, Sonos, Peloton, Lululemon, Patagonia, YETI, GoPro, Liquid Death, Duolingo, Taco Bell, Red Bull Media House
 
+## Entertainment: studios, networks, live shows (added 2026-10-25)
+Netflix (Workday/own site; also Netflix Is a Joke and live events), Disney / ABC / Disney Advertising, NBCUniversal (incl. late night, Peacock), Paramount / CBS, Warner Bros. Discovery, Amazon MGM Studios / Prime Video, Fox Entertainment / Fox Alternative Entertainment, Sony Pictures Television (game shows: Jeopardy!, Wheel of Fortune), Fremantle (Family Feud, The Price Is Right), Dick Clark Productions / Penske Media (DCP Studios launched 2026), Done+Dusted, Jesse Collins Entertainment, Live Nation, iHeartMedia, SiriusXM, YouTube (Originals/creator programs), Tastemade, Funny Or Die, Dropout
+
+## Ghostwriting and book collaboration (added 2026-10-25)
+Gotham Ghostwriters (roster), Reedsy (marketplace application), Scribe Media, Forbes Books, Greenleaf Book Group, Page Two, Grand Central / Hachette and HarperCollins (collaborator roles), Association of Ghostwriters job board (leads only; trace to employer)
+
+## AI labs and data vendors hiring professional writers (added 2026-10-25)
+Anthropic, OpenAI, Google DeepMind, Meta, xAI, Character.AI, Inflection, Runway, Higgsfield, Scale AI / Outlier, Mercor, Invisible Technologies, Turing, Surge AI, Handshake AI
+
 ## Boards found (Company | ats | slug | last checked)
 Jack Morton | greenhouse | jackmortonworldwide | 2026-10-15
 Autodesk | workday | autodesk.wd1.myworkdayjobs.com/en-US/Ext | 2026-10-10
