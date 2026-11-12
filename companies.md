@@ -53,6 +53,16 @@ Pinterest | greenhouse | pinterest | 2026-10-15
 Airbnb | greenhouse | airbnb | 2026-10-15
 Cloudflare | greenhouse | cloudflare | 2026-10-15
 OpenAI | ashby | openai | 2026-10-15
+Penske Media (Dick Clark Productions, Golden Globes, Billboard, SXSW) | greenhouse | pmc | 2026-11-12 (DCP and Golden Globes roles post here)
+A24 | greenhouse | a24 | 2026-11-12
+Tubi | greenhouse | tubi | 2026-11-12
+Barstool Sports | greenhouse | barstoolsports | 2026-11-12
+Cameo | greenhouse | cameo | 2026-11-12
+Inflection AI | greenhouse | inflectionai | 2026-11-12
+Midjourney | ashby | midjourney | 2026-11-12
+Thinking Machines Lab | ashby | thinkingmachines | 2026-11-12
+Perplexity | ashby | perplexity | 2026-11-12
+Ghostwriting firms checked 2026-11-12: Scribe Media (careers page says not hiring), Page Two (no openings), Greenleaf (openings load by JavaScript; none visible), Advantage/Forbes Books (theauthoritycompany.com/careers; open-positions list not visible), Gotham Ghostwriters (no join page found)
 
 ## Southern California aerospace and defense (added 2026-10-11)
 Northrop Grumman | own site | northropgrumman.com/jobs (Communications job family; Redondo Beach, Palmdale, El Segundo) | 2026-10-11 (pages load without an apply button; confirm via ClearanceJobs/employer apply flow)
@@ -162,3 +172,5 @@ Scan 2026-11-09: rechecked all 50 existing jobs via ATS APIs (all open, none rem
 Scan 2026-11-10: rechecked all 50 existing jobs via ATS APIs; removed 1 closed (Something Special Studios Executive Producer 404). Rescanned 38 Greenhouse boards: no new Fish-level matches (Jack Morton EP Dayton NJ; Samsara Sr Internal Comms is internal comms; SpaceX/Starlink comms managers are media-relations heavy; Anduril only technical writers). Ashby/Lever, entertainment Workday sites and ghostwriting firms not covered this run. No new 'all' listings.
 
 Scan 2026-11-11: rechecked all 50 existing jobs via ATS APIs (Greenhouse, Ashby, Netflix); removed 5 closed (404 records): Riot Manager Narrative Writing (applied), Riot Principal Creative Director Growth, Hasbro/WotC Creative Lead D&D Universes Beyond, Pinterest Lead Creative Producer, Airbnb Creative Lead Copy. Rescanned 38 Greenhouse boards, Ashby (OpenAI, Runway, Mercor, Handshake, Character, ElevenLabs, Suno, Cohere), Lever (Spotify, Shield AI) and Netflix API (LA). New: Netflix Manager, UCAN Marketing - Live Title Creative (fish); Cohere Managing Editor (fish, remote); SpaceX Sr. Video Editor (all); Pinterest Integrated Marketing Lead (all). Skipped: OpenAI Launch Producer (SF hybrid), ElevenLabs Product & Technical Comms (East Coast only), Figma Director Creative Brand Expression (design-team lead), Datadog Video Script Writer (NYC, 2-5 yrs), Netflix comms managers (publicity). Ghostwriting firms and entertainment Workday sites still not covered.
+
+Scan 2026-11-12: rechecked all 49 existing jobs via ATS APIs (Greenhouse, Ashby, Netflix); removed 1 closed (On Board Experiential Senior Creative Strategist, 404). Rescanned 39 Greenhouse boards, Ashby (OpenAI, Runway, Character, Mercor, Handshake, ElevenLabs, Suno, Cohere), Lever (Spotify, Shield AI), Netflix API, plus new boards above. New: Billboard Head of Video Series and Livestreaming (fish), Relativity Head of Communications & Brand (fish), Golden Globes VP Events Production (fish); OBE Production Director, Billboard Staff Writer Latin/Pop, Netflix Sr Mgr Ad Events (all). Skipped: OpenAI Launch Producer and comms roles (SF/EMEA), Stripe Program Manager Brand Studio (Canada), Perplexity Director of Events (SF), Figma Director Creative Brand Expression (design lead), DCP Procurement Manager.
