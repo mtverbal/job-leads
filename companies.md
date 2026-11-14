@@ -179,3 +179,17 @@ Scan 2026-11-13: rechecked all 54 existing jobs via ATS APIs (Greenhouse, Ashby,
 Wikimedia Foundation | greenhouse | wikimedia | 2026-11-13 (remote; exec comms roles)
 LA28 (Olympics organizing committee) | greenhouse | la28careers | 2026-11-13 (LA; Games editorial/comms roles post here)
 Crooked Media | greenhouse | crookedmedia | 2026-11-13 (LA podcast company with in-house comedy writers)
+
+Scan 2026-11-14: rechecked all 60 existing jobs via ATS APIs (Greenhouse, Ashby, Netflix); removed 1 closed (Pinterest Integrated Marketing Lead, 404). Rescanned ~80 boards by API: all Greenhouse boards above plus new ones, Ashby (OpenAI, Runway, Character, Mercor, Handshake, ElevenLabs, Suno, Cohere, Midjourney, Thinking Machines, Perplexity, Reedsy, Harvey, Sierra, Decagon, Pika, Notion, Linear, Ramp), Lever (Spotify, Palantir; Shield AI lever board now empty), Netflix API (LA). New: Netflix Sr Mgr Brand Strategy, Marketing Partnerships; Twitch Sr Mgr Internal Comms (All Hands programming); Twitch Director, Head of Creative (fish); Scopely Comms Mgr, Elastic Content Strategist, Linear Creative Producer, Netflix Associate Production Ops (all). Skipped: Anthropic GTM Narrative Lead and Harvey Content & Programming Sr Mgr Global Events (SF/NYC only), Harvey Head of Video (SF), Duolingo ACD (NYC), Vox Media podcast producers (NYC/DC), CoreWeave Physical AI Comms (media relations, non-LA). No Greenhouse/Lever/Ashby board at guessed slugs: Dropout, Funny Or Die, Tastemade, Fremantle, Live Nation, iHeartMedia, SiriusXM, Wondery, Audacy, Canva, Sonos, GoPro, Therabody, YETI, Mattel, Skydance, Lionsgate, AMC Networks, Done+Dusted, Jesse Collins, Momentum, GPJ, Sparks, Freeman, Castelion, Hadrian.
+Twitch | greenhouse | twitch | 2026-11-14 (LA/Irvine offices; creative and All Hands roles)
+Scopely | greenhouse | scopely | 2026-11-14 (Culver City game publisher; comms/brand roles)
+Elastic | greenhouse | elastic | 2026-11-14 (remote US content roles)
+Vox Media | greenhouse | voxmedia | 2026-11-14 (podcast/video producers, mostly NYC/DC)
+Varda Space | greenhouse | vardaspace | 2026-11-14 (El Segundo; no comms roles open)
+Lucid Motors | greenhouse | lucidmotors | 2026-11-14 (no content roles)
+Oura | greenhouse | oura | 2026-11-14 (consumer hardware; nothing relevant)
+CoreWeave | greenhouse | coreweave | 2026-11-14 (big keynotes; comms roles non-LA)
+Harvey | ashby | harvey | 2026-11-14 (legal AI; video/events content team in SF/NYC)
+Linear | ashby | linear | 2026-11-14 (remote creative studio "Magic")
+Palantir | lever | palantir | 2026-11-14 (nothing relevant)
+Fox Entertainment | greenhouse | fox | 2026-11-14 (only 9 jobs; nothing relevant)
