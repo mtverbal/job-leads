@@ -193,3 +193,16 @@ Harvey | ashby | harvey | 2026-11-14 (legal AI; video/events content team in SF/
 Linear | ashby | linear | 2026-11-14 (remote creative studio "Magic")
 Palantir | lever | palantir | 2026-11-14 (nothing relevant)
 Fox Entertainment | greenhouse | fox | 2026-11-14 (only 9 jobs; nothing relevant)
+
+Scan 2026-11-15: rechecked all 66 existing jobs via ATS APIs (Greenhouse, Ashby, Netflix); removed 2 closed (404 records): MongoDB Manager, Executive Communications; Anduril Communications Coordinator. Rescanned ~70 Greenhouse boards, Ashby (OpenAI, Runway, Character, Mercor, Handshake, Turing, ElevenLabs, Suno, Cohere, Midjourney, Thinking Machines, Perplexity, Reedsy, Harvey, Sierra, Decagon, Pika, Notion, Linear, Ramp, Cursor, Replit, Writer, Lovable, Surge), Lever (Spotify, Palantir, Shield AI), Netflix API (LA), and Workday CXS APIs (NVIDIA, Adobe, Salesforce, Northrop Grumman, RTX, Boeing, Warner Bros. Discovery, Autodesk). New: NVIDIA Executive Communications Manager (fish; CEO speeches/keynote messaging), Coinbase Sr Internal Comms Manager, People (fish; town hall scripts); 10 'all'. Skipped: Perplexity Exec Comms Manager and Writer (SF hybrid), Harvey Senior Producer Video (SF), Wikimedia Enterprise Comms Lead (media relations), Northrop Sr Principal Communications Strategist (Maryland/Virginia, Secret clearance), SIE Sr Director Global Comms (San Mateo, PR), Datadog Video Script Writer (NYC). Disney/NBCU/Paramount/Sony Workday CXS endpoints returned nothing usable (need their own careers sites). Cohere Sr Mgr Executive Communications (seen in search) is no longer on Ashby.
+NVIDIA | workday | nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite (CXS API works via curl) | 2026-11-15
+Northrop Grumman | workday | ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site (CXS API works) | 2026-11-15
+RTX | workday | globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway | 2026-11-15
+Boeing | workday | boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS | 2026-11-15
+Adobe | workday | adobe.wd5.myworkdayjobs.com/external_experienced | 2026-11-15
+Salesforce | workday | salesforce.wd12.myworkdayjobs.com/External_Career_Site | 2026-11-15
+Warner Bros. Discovery | workday | warnerbros.wd5.myworkdayjobs.com/global | 2026-11-15
+Coinbase | greenhouse | coinbase | 2026-11-15 (remote-first; exec/internal comms roles)
+Dropbox | greenhouse | dropbox | 2026-11-15 (remote US marketing roles)
+Instacart | greenhouse | instacart | 2026-11-15 (remote content roles)
+Sony Interactive Entertainment | greenhouse | sonyinteractiveentertainmentglobal | 2026-11-15 (PlayStation; comms roles mostly San Mateo)
