@@ -206,3 +206,12 @@ Coinbase | greenhouse | coinbase | 2026-11-15 (remote-first; exec/internal comms
 Dropbox | greenhouse | dropbox | 2026-11-15 (remote US marketing roles)
 Instacart | greenhouse | instacart | 2026-11-15 (remote content roles)
 Sony Interactive Entertainment | greenhouse | sonyinteractiveentertainmentglobal | 2026-11-15 (PlayStation; comms roles mostly San Mateo)
+
+Scan 2026-11-16: rechecked all 76 existing jobs via ATS APIs (Greenhouse, Ashby, Netflix). 75 confirmed open; NVIDIA Executive Communications Manager could not be confirmed (Workday CXS returned 403/429 and the page needs JavaScript; check_failures 1). None removed. Rescanned ~115 boards by API: all Greenhouse boards above plus new ones, Ashby (OpenAI, Runway, Character, Mercor, Handshake, ElevenLabs, Suno, Cohere, Midjourney, Thinking Machines, Perplexity, Reedsy, Harvey, Sierra, Decagon, Pika, Notion, Linear, Ramp, Cursor, Replit, Writer, Lovable, Synthesia, Krea, Ideogram, Sesame, Poolside), Lever (Spotify, Palantir) and Netflix API (LA). All Workday CXS endpoints rate-limited today (HTTP 429). New: Sixteenth Studios Senior Director, Unscripted, and Sphere Senior Copywriter Marketing (fish); Sphere CD (Temp), PrizePicks CD, Whalar Creative Lead, xAI AI Tutor Writing, Netflix Is a Joke Social Marketing Manager, Skyryse Social Content Creator (all). Skipped: Coinbase Communications Generalist (media relations), Vox Senior Video Producer Pivot (NYC), Lyft/Chime/Robinhood comms and creative roles (SF/NYC on-site), Affirm policy comms, Jobgether exec-comms listings (re-poster, no employer posting), Northrop comms roles (Maryland/Florida).
+Sphere Entertainment / MSG | greenhouse | sphereentertainment | 2026-11-16 (Burbank creative and copy roles for Sphere)
+Whalar / Sixteenth Studios | greenhouse | whalarinc | 2026-11-16 (creator agency; Sixteenth Studios unscripted development in LA)
+PrizePicks | greenhouse | prizepicks | 2026-11-16 (remote creative team)
+Skyryse | greenhouse | skyryse | 2026-11-16 (El Segundo aviation tech; content and video roles)
+xAI | greenhouse | xai | 2026-11-16 (AI Tutor Writing contract, US remote)
+Think True | greenhouse | thinktrue | 2026-11-16 (LA experiential agency; production roles only)
+Lyft, Chime, Robinhood, Affirm, Brex, Faire, FanDuel, BuzzFeed | greenhouse | (slug = name) | 2026-11-16 (comms/brand roles, mostly SF/NYC)
